@@ -6,10 +6,13 @@
 
 Through our carefully crafted events like meetups, conferences or hackathons we foster an environment where cutting-edge technology meets philosophical discourse, where digital innovation intersects with human rights, and where practical solutions emerge from theoretical frameworks.
 
+
 ## Our Concepts
+
 -  Hackers Congress Paralelní Polis (working name) hackathon & conference
 -  Hackers Camp Paralelní Polis (working name) conference
 -  ETHBrno hackathon - coop with [Gwei.cz](https://gwei.cz)
+
 
 ## Events
 ### Planned Events
@@ -19,7 +22,18 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 - `10/2025` **Hackers Congress Paralelní Polis** (working name) @ CZ
 - `11/2025` **ETHBrno×3** @ Brno, CZ
 
+
 ### Past Events
 
-- `06/2023` [Web3Privacy Now Summit #1](https://prague22.web3privacy.info/)@ Prague, CZ
+- `06/2023` [Web3Privacy Now Summit #1](https://prague22.web3privacy.info/) @ Prague, CZ
 - `11/2022` [ETHBrno²](https://2022.ethbrno.cz/) @ Brno, CZ
+
+
+## Contributors
+
+- Tree ([@tree.fail](https://bsky.app/profile/tree.fail))
+- svatoshinemamnato
+
+## Contact
+
+Email: events@pp0.co
