@@ -9,18 +9,18 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Our Concepts
 
--  Hackers Congress Paralelní Polis (working name) hackathon & conference
--  Hackers Camp Paralelní Polis (working name) conference
--  ETHBrno hackathon - coop with [Gwei.cz](https://gwei.cz)
+-  [Hackers Congress Paralelní Polis](https://paralelnipolis.info/c/hcpp) (working name) conference
+-  Hackers Camp Paralelní Polis (working name) hackathon & conference
+-  [ETHBrno](https://paralelnipolis.info/c/ethbrno) hackathon - coop w/ [Gwei.cz](https://gwei.cz)
 
 
 ## Events
 ### Planned Events
 
-- `06/2025` **Web3Privacy Now Summit** @ Prague, CZ
-- `08/2025` **Hackers Camp Paralelní Polis** (working name) @ CZ
-- `10/2025` **Hackers Congress Paralelní Polis** (working name) @ CZ
-- `11/2025` **ETHBrno×3** @ Brno, CZ
+- `06/2025` Web3Privacy Now Summit @ Prague, CZ
+- `08/2025` Hackers Camp Paralelní Polis (working name) @ CZ
+- `10/2025` Hackers Congress Paralelní Polis (working name) @ CZ
+- `11/2025` ETHBrno×3 @ Brno, CZ
 
 
 ### Past Events
