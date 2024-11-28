@@ -31,6 +31,7 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Partners
 
+- [Parallel Polis Zero (pp0)](https://paralelnipolis.info/s/pp0)
 - [Web3Privacy Now](https://web3privacy.info/)
 - [Gwei.cz](https://gwei.cz/)
 - [FactoryDAO](https://www.factorydao.org/)
