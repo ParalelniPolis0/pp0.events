@@ -9,7 +9,7 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Our Concepts
 
--  [Hackers Congress Paralelní Polis](https://paralelnipolis.info/c/hcpp) (working name) conference
+-  [Hackers Congress Paralelní Polis](https://paralelnipolis.info/c/hcpp) (working name) conference (2025+)
 -  Hackers Camp Paralelní Polis (working name) hackathon & conference
 -  [ETHBrno](https://paralelnipolis.info/c/ethbrno) hackathon - coop w/ [Gwei.cz](https://gwei.cz)
 
