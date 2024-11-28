@@ -29,6 +29,11 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 - `06/2023` [Web3Privacy Now Summit #1](https://prague22.web3privacy.info/) @ Prague, CZ
 - `11/2022` [ETHBrno²](https://2022.ethbrno.cz/) @ Brno, CZ
 
+## Partners
+
+- [Web3Privacy Now](https://web3privacy.info/)
+- [Gwei.cz](https://gwei.cz/)
+- [FactoryDAO](https://www.factorydao.org/)
 
 ## Contact
 
