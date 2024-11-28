@@ -5,11 +5,11 @@
 ## Events
 ### Planned Events
 
-- **Web3Privacy Now Summit** (6/2025) @ Prague, CZ
-- **Hackers Congress Paralelní Polis (HCPP)** (10/2025) @ CZ
-- **ETHBrno×3** (10/2025) @ Brno, CZ
+- 06/2025 | **Web3Privacy Now Summit** @ Prague, CZ
+- Q4/2025 | **Hackers Congress Paralelní Polis (HCPP)** @ CZ
+- Q4/2025 | **ETHBrno×3** @ Brno, CZ
 
 ### Past Events
 
-- [Web3Privacy Now Summit #1](https://prague22.web3privacy.info/) (6/2023) @ Prague, CZ
-- [ETHBrno²](https://2022.ethbrno.cz/) (10/2022) @ Brno, CZ
+- 06/2023 | [Web3Privacy Now Summit #1](https://prague22.web3privacy.info/)@ Prague, CZ
+- 10/2022 | [ETHBrno²](https://2022.ethbrno.cz/) @ Brno, CZ
