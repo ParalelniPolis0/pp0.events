@@ -18,8 +18,8 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 ### Planned Events
 
 - `06/2025` Web3Privacy Now Summit @ Prague, CZ
-- `08/2025` Hackers Camp Paralelní Polis (working name) @ CZ
-- `10/2025` Hackers Congress Paralelní Polis (working name) @ CZ
+- `08/2025` Hackers Camp Paralelní Polis (working name) @ TBD, CZ
+- `10/2025` Hackers Congress Paralelní Polis (working name) @ TBD, CZ
 - `11/2025` ETHBrno×3 @ Brno, CZ
 
 
@@ -37,3 +37,7 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 ## Contact
 
 Email: <a href="mailto:events@pp0.co">events@pp0.co</a>
+
+---
+
+([edit this page](https://github.com/ParalelniPolis0/pp0.events/blob/main/README.md))
