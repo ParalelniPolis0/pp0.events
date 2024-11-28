@@ -2,6 +2,10 @@
 
 > Event production guild
 
+*pp0.events* is a community-driven, non-profit event production guild that creates meaningful gatherings at the intersection of technology, society, and human freedom. Based in the Czech Republic, we collaborate with various organizations to curate experiences that bring together diverse communities of developers, researchers, artists, and visionaries who are shaping our digital future.
+
+Through our carefully crafted events and conferences, we foster an environment where cutting-edge technology meets philosophical discourse, where digital innovation intersects with human rights, and where practical solutions emerge from theoretical frameworks.
+
 ## Our Concepts
 -  Hackers Congress Paralelní Polis (working name) hackathon & conference
 -  Hackers Camp Paralelní Polis (working name) conference
