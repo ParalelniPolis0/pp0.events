@@ -31,7 +31,7 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Contributors
 
-- Tree ([@tree.fail](https://bsky.app/profile/tree.fail))
+- tree🌴 ([@tree.fail](https://bsky.app/profile/tree.fail))
 - svatoshinemamnato
 
 ## Contact
