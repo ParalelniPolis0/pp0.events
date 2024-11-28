@@ -5,7 +5,7 @@
 ## Our Concepts
 -  Hackers Congress Paralelní Polis (working name) hackathon & conference
 -  Hackers Camp Paralelní Polis (working name) conference
--  ETHBrno hackathon
+-  ETHBrno hackathon - coop with [Gwei.cz](https://gwei.cz)
 
 ## Events
 ### Planned Events
