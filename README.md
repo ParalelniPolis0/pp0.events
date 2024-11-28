@@ -2,6 +2,11 @@
 
 > Event production guild
 
+## Our Concepts
+-  Hackers Congress Paralelní Polis (working name) hackathon & conference
+-  Hackers Camp Paralelní Polis (working name) conference
+-  ETHBrno hackathon
+
 ## Events
 ### Planned Events
 
