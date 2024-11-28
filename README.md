@@ -30,14 +30,10 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 - `11/2022` [ETHBrno²](https://2022.ethbrno.cz/) @ Brno, CZ
 
 
-## Contributors
-
-- tree🌴 ([@tree.fail](https://bsky.app/profile/tree.fail))
-- svatoshinemamnato
-
 ## Contact
 
 Email: <a href="mailto:events@pp0.co">events@pp0.co</a>
+
 
 ---
 
