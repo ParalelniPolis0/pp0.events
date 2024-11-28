@@ -36,4 +36,4 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Contact
 
-Email: events@pp0.co
+Email: <a href="mailto:events@pp0.co">events@pp0.co</a>
