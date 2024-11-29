@@ -6,6 +6,12 @@
 
 Through our carefully crafted events like meetups, conferences or hackathons we foster an environment where cutting-edge technology meets philosophical discourse, where digital innovation intersects with human rights, and where practical solutions emerge from theoretical frameworks.
 
+## Our Services
+
+-	Event concept & strategy development - from initial idea to detailed execution plan
+-	Technical production & logistics - venue selection, infrastructure, and operational management
+- Community & content curation - speakers, workshops, and meaningful connections
+- Supporting your values & vision - helping organizations bring their ideas to life through events
 
 ## Our Concepts
 
