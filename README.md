@@ -23,7 +23,7 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 -  Hackers Camp Paralelní Polis (working name) - summer outdoor hackathon & conference
 
 ### Mini-conferences
--  Sovereign Routes - technical conference & workshop about mesh networks and mixnets
+-  [Sovereign Routes](https://notes.pp0.co/s/fL_MqeaSq) - technical conference & workshop about mesh networks and mixnets
 
 ## Events
 ### Planned Events
