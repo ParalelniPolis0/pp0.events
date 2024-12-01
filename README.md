@@ -15,11 +15,15 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Our Concepts
 
--  [Hackers Congress Paralelní Polis](https://paralelnipolis.info/c/hcpp) (working name) conference (2025+)
--  Hackers Camp Paralelní Polis (working name) hackathon & conference
--  [ETHBrno](https://paralelnipolis.info/c/ethbrno) hackathon - coop w/ [Gwei.cz](https://gwei.cz)
--  Sovereign Routes - technical conference & workshop about mesh networks and mixnets
+### Conferences
+-  [Hackers Congress Paralelní Polis](https://paralelnipolis.info/c/hcpp) (working name) conference (2025+) - flagship event of PP
 
+### Hackathons
+-  [ETHBrno](https://paralelnipolis.info/c/ethbrno) - lunarpunk-focused Ethereum hackathon (coop w/ [Gwei.cz](https://gwei.cz))
+-  Hackers Camp Paralelní Polis (working name) - summer outdoor hackathon & conference
+
+### Mini-conferences
+-  Sovereign Routes - technical conference & workshop about mesh networks and mixnets
 
 ## Events
 ### Planned Events
