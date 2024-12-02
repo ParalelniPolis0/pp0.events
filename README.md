@@ -28,8 +28,8 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 ## Events
 ### Planned Events
 
-- `05/2025` Sovereign Routes @ Prague, CZ
 - `05/2025` Web3Privacy Now Summit @ Prague, CZ
+- `06/2025` Sovereign Routes @ Prague, CZ
 - `08/2025` Hackers Camp Paralelní Polis (working name) @ TBD, CZ
 - `10/2025` Hackers Congress Paralelní Polis (working name) @ TBD, CZ
 - `11/2025` ETHBrno×3 @ Brno, CZ
