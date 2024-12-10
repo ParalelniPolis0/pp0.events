@@ -25,6 +25,9 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 ### Mini-conferences
 -  [Sovereign Routes](https://notes.pp0.co/s/fL_MqeaSq) - technical conference & workshop about mesh networks and mixnets
 
+### Meetups
+- Series: [Digitální autonomie](https://github.com/ParalelniPolis0/digitalni-autonomie) (czech/slovak language)
+
 ## Events
 ### Planned Events
 
