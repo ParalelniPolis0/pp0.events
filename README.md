@@ -2,7 +2,7 @@
 
 > Event production guild
 
-*pp0.events* is a community-driven, non-profit event production guild that creates meaningful gatherings at the intersection of technology, society, and human freedom. Based in the Czech Republic, we collaborate with various organizations to curate experiences that bring together diverse communities of developers, researchers, artists, and visionaries who are shaping our digital future.
+*pp0.events* is a community-driven, non-profit event production guild of [Parallel Polis](https://paralelnipolis.info/) movement that creates meaningful gatherings at the intersection of technology, society, and human freedom. Based in the Czech Republic, we collaborate with various organizations to curate experiences that bring together diverse communities of developers, researchers, artists, and visionaries who are shaping our digital future.
 
 Through our carefully crafted events like meetups, conferences or hackathons we foster an environment where cutting-edge technology meets philosophical discourse, where digital innovation intersects with human rights, and where practical solutions emerge from theoretical frameworks.
 
@@ -46,7 +46,6 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ## Partners
 
-- [Parallel Polis Zero (pp0)](https://paralelnipolis.info/s/pp0)
 - [Web3Privacy Now](https://web3privacy.info/)
 - [Gwei.cz](https://gwei.cz/)
 - [FactoryDAO](https://www.factorydao.org/)
