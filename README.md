@@ -19,7 +19,7 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 -  [Hackers Congress Paralelní Polis](https://paralelnipolis.info/c/hcpp) (working name) conference (2025+) - flagship event of PP
 
 ### Hackathons
--  [ETHBrno](https://paralelnipolis.info/c/ethbrno) - lunarpunk-focused Ethereum hackathon (coop w/ [Gwei.cz](https://gwei.cz))
+-  [ETHBrno](https://paralelnipolis.info/c/ethbrno) - lunarpunk-focused Ethereum hackathon (coop w/ [Gwei.cz](https://gwei.cz) & [W3PN](https://web3privacy.info/))
 -  Hackers Camp Paralelní Polis (working name) - summer outdoor hackathon & conference
 
 ### Mini-conferences
