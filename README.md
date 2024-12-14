@@ -20,22 +20,20 @@ Through our carefully crafted events like meetups, conferences or hackathons we 
 
 ### Hackathons
 -  [ETHBrno](https://paralelnipolis.info/c/ethbrno) - lunarpunk-focused Ethereum hackathon (coop w/ [Gwei.cz](https://gwei.cz) & [W3PN](https://web3privacy.info/))
--  Hackers Camp Paralelní Polis (working name) - summer outdoor hackathon & conference
 
 ### Mini-conferences
 -  [Sovereign Routes](https://notes.pp0.co/s/fL_MqeaSq) - technical conference & workshop about mesh networks and mixnets
 
 ### Meetups
-- Series: [Digitální autonomie](https://github.com/ParalelniPolis0/digitalni-autonomie) (czech/slovak language)
+- [Digitální autonomie](https://github.com/ParalelniPolis0/digitalni-autonomie) series (czech/slovak language)
 
 ## Events
 ### Planned Events
 
 - `05/2025` Web3Privacy Now Event @ Prague, CZ
 - `06/2025` Sovereign Routes @ Prague, CZ
-- `08/2025` Hackers Camp Paralelní Polis (working name) @ TBD, CZ
 - `10/2025` Hackers Congress Paralelní Polis (working name) @ TBD, CZ
-- `11/2025` ETHBrno×3 @ Brno, CZ
+- `11/2025` ETHBrno 2025 @ Brno, CZ
 
 
 ### Past Events
